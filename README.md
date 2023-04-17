@@ -7,7 +7,7 @@ XVLIB 2 was created with the intention of doing web scrapping on Xvideos and dow
 For now, you can install an XVLIB 2 via the following command:
 
 ```bash
-pip3 install git+https://github.com/Lobooooooo14/XVLIB-2
+pip3 install git+https://github.com/bennettricki/XVLIB-2
 ```
 
 > * The command may vary on other systems.
