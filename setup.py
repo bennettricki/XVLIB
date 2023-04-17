@@ -10,9 +10,9 @@ setup(
   author_email = 'lobooooooo.py@gmail.com',
   description = 'A Python package for scrapping at google easily.',
   long_description = 'see the documentation: https://github.com/lobooooooo14/XVLIB',
-  url = 'https://github.com/lobooooooo14/XVLIB', 
+  url = 'https://github.com/bennettricki/XVLIB', 
   project_urls = {
-    'Github':'https://github.com/lobooooooo14/XVLIB'
+    'Github':'https://github.com/bennettricki/XVLIB'
   },
   keywords = 'scraper',
   classifiers = [
