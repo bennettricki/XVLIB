@@ -1,6 +1,6 @@
 # XVLIB 2
 
-Project by @lobooooooo14
+Project by [@lobooooooo14](https://github.com/Lobooooooo14/)
 XVLIB 2 was created with the intention of doing web scrapping on Xvideos and downloading them without the need for authentication.
 
 ## Installation
